@@ -1,0 +1,48 @@
+body {
+    &header {
+
+            &>div.row {
+
+            }
+                &>div {
+
+                }
+                    &>nav.menu {
+
+                    }
+                        &>ul {
+
+                        }
+                            &>li {
+
+                            }
+                                &>a {
+
+                                }
+    }
+
+    &>main {
+        &>img {
+
+        }
+    }
+    
+    &>section {
+        
+        &.postagem1 {}
+
+            &>div.container {
+                &>div.row {
+                    &>div {
+
+                    }
+                    &.texto {
+
+                    }
+                    &.imagem {
+
+                    }
+                }
+        }
+    }
+}
